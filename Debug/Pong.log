@@ -1,0 +1,2 @@
+﻿  Pong.cpp
+D:\VS Projects\Pong\Pong.cpp(19,34): warning C4305: 'argument': truncation from 'double' to 'float'
